@@ -39,8 +39,9 @@ This repo contains all programming assignments for this specialization.[Deep Lea
   - [Week 3 - PA 1 - Autonomous driving - Car detection](https://github.com/shashank2806/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Autonomous%20driving%20application%20-%20Car%20detection%20-%20v3.ipynb)
   - [Week 4 - PA 1 - Deep Learning & Art: Neural Style Transfer](https://github.com/shashank2806/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
   - [Week 4 - PA 2 - Face Recognition for the Happy House](https://github.com/shashank2806/deep-learning-coursera/blob/master/Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
-<!-- - Course 5: Sequence Models
+- Course 5: Sequence Models
 
   - [Week 1 - PA 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/shashank2806/deep-learning-coursera/blob/master/Sequence%20Models/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step%20-%20v2.ipynb)
   - [Week 1 - PA 2 - Character level language model - Dinosaurus land](https://github.com/shashank2806/deep-learning-coursera/blob/master/Sequence%20Models/Dinosaurus%20Island%20--%20Character%20level%20language%20model%20final%20-%20v3.ipynb)
- -->
+  - [Week 1 - PA 3 - Improvise a Jazz Solo with an LSTM Network](https://github.com/shashank2806/deep-learning-coursera/blob/master/Sequence%20Models/Improvise%20a%20Jazz%20Solo%20with%20an%20LSTM%20Network%20-%20v1.ipynb)
+
